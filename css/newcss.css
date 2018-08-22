@@ -1,0 +1,131 @@
+  .navigation{
+   width:220px;
+   margin-left:10px;
+   margin-top:90px;
+   margin-right: 20px;
+   float: left;
+   background-color: #DCDCDC;
+   position: fixed;
+  }
+  #list{
+  	list-style: none;
+  	padding-left:0px;
+  }
+  #coo_3{
+    padding-left: 60px;
+    padding-top: 25px;
+    margin-left: 80px;
+  }
+  nav ul li{
+    background-color:#ffffff;
+  }
+  .cog-icon ul li:hover{
+   color:transparent;
+   background-color: transparent;
+  }
+  .cog-icon ul{
+   color:transparent;
+   background-color: transparent;
+  }
+  .and a:active{
+    color: transparent;
+  }
+  .and a:hover{
+    color: transparent;
+  } .and a:visited{
+    color: transparent;
+  } 
+  ul li{
+  	padding:20px;
+  }
+  ul li:hover{
+  	background-color:transparent;
+  }
+ 
+  ul li a:link{
+     color: white;
+  }
+  ul li a:visited{
+    color:white;
+  }
+  ul li a:hover{
+    background-color: transparent;
+  }
+
+  button{
+  	width:180px;
+  }
+  #forum{
+  	background-color: red;
+  	width:680px;
+  	float:left;
+  	margin-top:20px;
+  	padding:15px;
+  }
+  #side{
+  	width:300px;
+  	margin-top:90px;
+  	margin-left:20px;
+  	margin-right:10px;
+  	background-color:yellow;
+  	float:left;
+  }
+  .side_container{
+    width: 320px;
+    float:left;
+    position: rela;
+  }
+  #sideContent{
+  	margin-left: 10px;
+  	margin-right: 10px;
+  	margin-top: 20px;
+  }
+  .panel-body ul li{
+  	padding-top: 5px;
+  	padding-bottom: 5px;
+  	padding-left: 0px;
+  	padding-right: 0px;
+  }
+  .panel-body ul{
+  	padding-left: 20px;
+  }
+  .panel-body ul li a{
+  	color:#000080;
+  }
+  .panel-body ul li a:hover{
+  	text-decoration: underline;
+  	background-color: transparent;
+  }
+  .panel-body{
+  	background-color:#B0E0E6;
+  }
+  .sidebar-nav-fixed {
+   width:250px;
+
+}
+.jumbotron{
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #DCDCDC;
+}
+#col6{
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 20px;
+}
+#col2{
+  margin-left: 20px;
+}
+h4{
+  color: red;
+}
+p{
+  color: black;
+}
+h3{
+  font-weight: bold;;
+}
+body {
+    padding-bottom: 40px;
+    padding-top: 90px;
+}

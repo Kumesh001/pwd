@@ -1,0 +1,34 @@
+.navbar-header{
+	width:600px;
+}
+nav ul li{
+	color:red;
+  background-color:black;
+}
+
+p{
+ margin-bottom:0px;
+ color:white;font	
+}
+
+#mymodal{
+	position:absolute;
+	background-color:white;
+	border-radius:5px;
+	padding:10px;
+}
+.modal-body{
+	height: 150px;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+  .footer{
+  	background-color: #DCDCDC;
+  }
+  .content{
+   margin-top: 100px;
+  }
+  
